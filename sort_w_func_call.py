@@ -12,6 +12,7 @@ def bubbleSort(arr):
 def main():
     arr = [5, 1, 4, 2, 8]
     bubbleSort(arr)
+    print(arr)
 
 if __name__ == "__main__":
     sys.exit(main())
